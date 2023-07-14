@@ -39,4 +39,12 @@
 
 1. commit final changes to the repo
 
+## performance tip
+
+💡 You can use the following abbreviations:
+
+* `mob s` instead of `mob start`
+* `mob n` instead of `mob next`
+* `mob d` instead of `mob done`
+
 
